@@ -1,0 +1,557 @@
+WEBVTT
+
+00:00.000 --> 00:04.200
+Young Little Newbird doesn't know anything about game development, but wants to make
+
+00:04.200 --> 00:06.280
+his favorite games on the Roblox platform.
+
+00:06.280 --> 00:10.320
+He reads up on the Roblox documentation to learn how to make a game until he hits a
+
+00:10.320 --> 00:15.040
+Roblox trying to figure out what the heck a script is and how a game comes together.
+
+00:15.040 --> 00:19.640
+And as a result of that, he quits on day one, and probably doesn't have a computer
+
+00:19.640 --> 00:25.000
+anymore after destroying it out of frustration, and now he can't pursue making the games
+
+00:25.000 --> 00:26.400
+he's always wanted to make.
+
+00:26.400 --> 00:29.720
+Oh, Newbird, becoming a Roblox game developer doesn't happen overnight.
+
+00:29.720 --> 00:33.680
+You'll especially have to put in the time, put in the effort, and face the struggles
+
+00:33.680 --> 00:39.120
+head on when you don't understand a concept, especially in the world of scripting and programming.
+
+00:39.120 --> 00:42.840
+In the beginning, it can be very difficult and demotivating to continuously learn how
+
+00:42.840 --> 00:47.000
+to become a better Roblox scriptor when you keep getting faced with error messages and
+
+00:47.000 --> 00:48.400
+unintended effects in your game.
+
+00:48.400 --> 00:52.480
+It's a real struggle most beginners face when learning how to script on Roblox, which
+
+00:52.480 --> 00:56.840
+is why I want to make this playlist to help you reach your goals of making the games
+
+00:56.840 --> 00:58.840
+that you want to create on Roblox.
+
+00:58.840 --> 01:02.600
+My name is Braudev, and I will be teaching you everything you need to know to become
+
+01:02.600 --> 01:03.920
+a great Roblox scriptor.
+
+01:03.920 --> 01:08.000
+I've been scripting on Roblox for about 7 to 8 years, and during this time, I've made
+
+01:08.000 --> 01:10.720
+countless projects that just weren't successful.
+
+01:10.720 --> 01:15.080
+But one thing that kept me going throughout all these years was the desire to learn more
+
+01:15.080 --> 01:18.200
+and actually have an interest in the things I was learning.
+
+01:18.200 --> 01:22.120
+Even if I face challenges when learning new things, especially during times when I was
+
+01:22.120 --> 01:26.640
+demotivated, and I hope you can adopt the secret strategy to go through this journey
+
+01:26.640 --> 01:28.760
+of becoming a Roblox game developer.
+
+01:28.760 --> 01:32.520
+As of recording this video, I have two playlists ready for you to watch once you finish
+
+01:32.520 --> 01:37.000
+this beginner's guide, the advanced scripting tutorial guide, and the GUI tutorial guide.
+
+01:37.000 --> 01:40.600
+It's quite a scary journey to go through all these episodes, considering how many there
+
+01:40.600 --> 01:45.400
+are now, but like I mentioned, becoming a Roblox game developer isn't easy.
+
+01:45.400 --> 01:48.880
+And so I would like to make the journey easier for you by having everything you need to
+
+01:48.880 --> 01:54.880
+know in these playlists, ranging from the very basics to the advanced concepts and accelerate
+
+01:54.880 --> 01:59.760
+you to become a pro Roblox scriptor and game developer in 2024.
+
+01:59.760 --> 02:03.920
+And with that being said, let's now go ahead and start making games on Roblox.
+
+02:03.920 --> 02:09.040
+Alright, so what you see here is the homepage of the software called Roblox Studio.
+
+02:09.040 --> 02:13.600
+Now this is the software we're going to be using to create our Roblox games so that we
+
+02:13.600 --> 02:18.480
+can upload them to the Roblox website and so players can actually play your game that's
+
+02:18.480 --> 02:19.480
+uploaded to Roblox.
+
+02:19.480 --> 02:23.600
+I'll leave a link to this in the description if you want to download Roblox Studio so that
+
+02:23.600 --> 02:27.720
+you can log in with your account and then you can be greeted with this same exact home
+
+02:27.720 --> 02:29.740
+screen just like you're seeing in this video.
+
+02:29.740 --> 02:35.520
+Now before we do anything, I encourage you to basically follow exactly what I do step
+
+02:35.520 --> 02:40.760
+by step so that you can kind of get a feel for how to use Roblox Studio and you're experiencing
+
+02:40.760 --> 02:44.840
+what I'm teaching you while you follow through with these videos because just watching
+
+02:44.840 --> 02:48.820
+me go through these tutorial videos isn't going to be enough to help you learn.
+
+02:48.820 --> 02:53.480
+So that's why I encourage you to literally do exactly what I do as you watch these videos
+
+02:53.480 --> 02:57.240
+to follow along and learn from doing it yourself as well.
+
+02:57.240 --> 03:01.600
+So now that we've gotten that out of the way, once we are here inside his home screen,
+
+03:01.600 --> 03:06.040
+Roblox has a bunch of templates that we can choose from as a starter place to start making
+
+03:06.040 --> 03:07.240
+our Roblox games.
+
+03:07.240 --> 03:10.840
+For the purpose of this tutorial guide, we're going to use this base play template right
+
+03:10.840 --> 03:11.840
+here.
+
+03:11.840 --> 03:14.360
+I'm just going to click on this and then what's going to happen is Roblox is going to load
+
+03:14.360 --> 03:19.800
+in this template that we just selected and now we are thrown into this world that we
+
+03:19.800 --> 03:24.000
+can now mess around with to create our Roblox game and upload it onto the platform.
+
+03:24.000 --> 03:27.560
+Now there are a couple of things here that I want to introduce to you so that you get
+
+03:27.560 --> 03:31.720
+a feel for how Roblox Studio works because that's our goal for this first episode.
+
+03:31.720 --> 03:35.880
+It's to familiarize ourselves with using Roblox Studio and some of the things that they have
+
+03:35.880 --> 03:36.880
+to offer.
+
+03:36.880 --> 03:40.520
+One thing I want to show you is being able to navigate around this 3D world that you
+
+03:40.520 --> 03:43.360
+see right here that represents our Roblox game.
+
+03:43.360 --> 03:46.200
+So I want you to imagine you're playing Roblox on PC.
+
+03:46.200 --> 03:51.440
+The controls you probably use are W, AS, and D for the keys and also the mouse as well.
+
+03:51.440 --> 03:53.440
+So it kind of works the same way here as well.
+
+03:53.440 --> 03:58.000
+So if we hold W that's going to move our camera forward, if we hold S that's going to move
+
+03:58.000 --> 04:01.480
+our camera backwards, if we hold A that's going to go left and then D that's going to
+
+04:01.480 --> 04:02.480
+go right.
+
+04:02.520 --> 04:07.040
+If we want to move the camera specifically, then what we can do is hold the right mouse
+
+04:07.040 --> 04:11.960
+button and then drag our mouse around the world so that we can change our camera to
+
+04:11.960 --> 04:15.760
+face a certain direction and we can combine these movements together so that we're able
+
+04:15.760 --> 04:18.760
+to move around studio as we so desire to.
+
+04:18.760 --> 04:23.760
+Some other things we can do is hold Q to make our camera go down and then hold E to make
+
+04:23.760 --> 04:28.520
+your camera go up and we can even use the scrolling wheel to scroll outward and also
+
+04:28.520 --> 04:30.080
+scroll inward as well.
+
+04:30.080 --> 04:35.240
+So these are some basic movement controls that I will introduce to you for this episode
+
+04:35.240 --> 04:39.040
+and maybe go through some more later down the line, but that's like the basics of being
+
+04:39.040 --> 04:41.920
+able to move around inside of Roblox Studio.
+
+04:41.920 --> 04:45.400
+So now there are some some windows that I want to show you that are going to be very
+
+04:45.400 --> 04:47.540
+important for the entirety of this tutorial guide.
+
+04:47.540 --> 04:54.080
+The first one is this Roblox Studio ribbon up here that basically shows all of the resources
+
+04:54.080 --> 05:00.480
+and services that they have provided to us so that we can use them for our Roblox game.
+
+05:00.480 --> 05:02.360
+So right now we're in the home category.
+
+05:02.360 --> 05:05.880
+So if we select a different tab like model, then it's going to show us a bunch of different
+
+05:05.880 --> 05:07.480
+things here that we can use.
+
+05:07.480 --> 05:12.520
+And if we go to avatar, it's going to show some different stuff, test, view, plugins,
+
+05:12.520 --> 05:15.360
+and all of these other sorts of things that are going to be very helpful for us.
+
+05:15.360 --> 05:20.160
+Now another window that's extremely important to understand is what's called the Explorer
+
+05:20.160 --> 05:22.080
+as you can see right here on the right side.
+
+05:22.080 --> 05:26.120
+You can see that there's all of these different folders inside of here with different names.
+
+05:26.120 --> 05:29.920
+And I'm going to try and give a brief explanation as to what this all means.
+
+05:29.920 --> 05:35.560
+Well, to basically summarize what the Explorer is, it's basically a directory full of folders
+
+05:35.560 --> 05:40.480
+that have its own specific purposes where you combine all of them together to make up one
+
+05:40.480 --> 05:41.720
+Roblox game.
+
+05:41.720 --> 05:45.960
+So every single Roblox game you can think of basically has this structure right here with
+
+05:45.960 --> 05:49.880
+all of these different folders with different purposes that you will need to learn how
+
+05:49.880 --> 05:51.960
+to use as a Roblox game developer.
+
+05:51.960 --> 05:57.360
+So one of the ones as an example is called workspace workspace is what basically shows
+
+05:57.360 --> 05:59.840
+us the entire 3D world.
+
+05:59.840 --> 06:03.720
+And this is how we're able to render things inside of this game screen.
+
+06:03.720 --> 06:06.480
+It's when we put objects inside of this workspace folder.
+
+06:06.480 --> 06:11.160
+Now if we were to open up this workspace folder, so if we click on this arrow that's to the
+
+06:11.160 --> 06:16.040
+left of it, then we can see that there's actually stuff contained within this workspace folder.
+
+06:16.040 --> 06:19.360
+So we have the camera, terrain, spawn location, base play and things like that.
+
+06:19.360 --> 06:23.200
+And if we open these up, we can see that there is other stuff in here contained within
+
+06:23.200 --> 06:25.200
+the thing that's within the workspace.
+
+06:25.200 --> 06:30.360
+So you can kind of see that there's this hierarchy structure going on with this workspace.
+
+06:30.360 --> 06:34.520
+And it's very important to understand the structure when you're working with finding
+
+06:34.520 --> 06:35.920
+stuff within your game.
+
+06:35.920 --> 06:39.880
+And so it's a really good practice to understand how this structure works.
+
+06:39.880 --> 06:44.600
+Now if I were to select one of these objects, like let's say the workspace, we can see
+
+06:44.680 --> 06:50.720
+that down here, it showed a bunch of things in this other window called properties.
+
+06:50.720 --> 06:55.440
+Now this is the next window that is going to be extremely important to understand.
+
+06:55.440 --> 07:00.200
+So basically what this window does is it shows all of the properties, the attributes, the
+
+07:00.200 --> 07:06.080
+settings or configurations, whatever you want to describe it as for the object that we selected.
+
+07:06.080 --> 07:11.000
+So what we selected is this workspace object and there's all these properties here that
+
+07:11.000 --> 07:15.200
+are associated with that object that we can actually change ourselves.
+
+07:15.200 --> 07:18.160
+And if we select a different objects, like let's say the spawn location, it's going
+
+07:18.160 --> 07:22.800
+to show different properties for this spawn location object.
+
+07:22.800 --> 07:28.480
+And we can actually change it and see the change in real time inside of our game.
+
+07:28.480 --> 07:32.680
+So if we were to let's say change the color, let's say, so if I click on the color, then
+
+07:32.680 --> 07:36.200
+it's going to show us this color wheel right here that we can just pick whichever color
+
+07:36.200 --> 07:37.200
+we want.
+
+07:37.200 --> 07:42.160
+So let's say pick this color and I hit OK, then it's going to change the color in real
+
+07:42.160 --> 07:45.360
+time and we can actually see this change inside of Roblox Studio.
+
+07:45.360 --> 07:49.520
+So that's kind of a cool thing to know about when it comes to understanding the properties
+
+07:49.520 --> 07:55.040
+window and also the Explorer window and how both of them work together to basically have
+
+07:55.040 --> 07:57.600
+stuff inside of our workspace.
+
+07:57.600 --> 08:01.200
+And now the next thing I want to demonstrate is being able to add parts inside of the game.
+
+08:01.200 --> 08:05.200
+So I'm actually going to deselect the spawn location by simply selecting anywhere inside
+
+08:05.200 --> 08:07.280
+of this world, just like that.
+
+08:07.280 --> 08:11.640
+And what I'm going to do is go on the top ribbon and click on this part button that's
+
+08:11.640 --> 08:13.920
+inside of the insert category.
+
+08:13.920 --> 08:15.440
+So I'm going to click this.
+
+08:15.440 --> 08:20.560
+And as you can see Roblox has inserted a part for us to use and what I can do is take this
+
+08:20.560 --> 08:25.560
+part, hold left click and drag it wherever I want to put it inside of the workspace.
+
+08:25.560 --> 08:30.000
+Now there are other tools that I want to introduce to you that you might find extremely helpful.
+
+08:30.000 --> 08:32.560
+So we're able to select this and move it around.
+
+08:32.560 --> 08:37.360
+This is what's called the select tool as you can see up here on the screen.
+
+08:37.360 --> 08:39.160
+The next tool is called move.
+
+08:39.160 --> 08:44.560
+So if we select this, then we can see these arrows that are surrounding this part.
+
+08:44.560 --> 08:48.920
+So if we hold this blue arrow and then move it this way, then it's going to move the
+
+08:48.920 --> 08:53.120
+part in this specific direction and we can do the same thing for the red arrow and we
+
+08:53.120 --> 08:55.560
+can do the same thing for the green arrow as well.
+
+08:55.560 --> 09:00.760
+Another thing we can do is change the size of this part by clicking on this scale tool.
+
+09:00.760 --> 09:05.840
+So if we scale this part this way, then it's going to move it in this direction.
+
+09:05.840 --> 09:08.080
+And the last tool is the rotate tool.
+
+09:08.080 --> 09:12.880
+So if we select this, then we can see that this basically resembles a bunch of circles.
+
+09:12.880 --> 09:17.120
+We select whichever circle we want and then we move it in that direction specifically.
+
+09:17.120 --> 09:19.200
+So I'm kind of just moving this part around a little bit.
+
+09:19.200 --> 09:21.160
+And that is basically how you use the rotate part.
+
+09:21.160 --> 09:22.880
+Now once again, I want to deselect this.
+
+09:22.880 --> 09:25.440
+So I'm just going to click elsewhere like this.
+
+09:25.440 --> 09:29.360
+And now we have a part that basically just does absolutely nothing.
+
+09:29.360 --> 09:35.480
+But what I wanted to get at here was getting the feel and practice for moving around Roblox
+
+09:35.480 --> 09:38.600
+Studio and also adding parts into the game.
+
+09:38.600 --> 09:42.120
+So that's basically the introduction to using Roblox Studio.
+
+09:42.120 --> 09:46.520
+Now at the end of every single video for this playlist, what I want to do is give you a
+
+09:46.520 --> 09:52.800
+learning objective or a challenge to assess what you learned inside of each video.
+
+09:52.800 --> 09:58.000
+Now for this learning objective, what I want you to do is basically just continue to experiment
+
+09:58.000 --> 10:02.560
+with Roblox Studio either by moving around inside of the workspace or by adding more
+
+10:02.560 --> 10:03.680
+parts like this.
+
+10:03.680 --> 10:08.280
+So I'm actually going to go up here and I'm going to insert another part.
+
+10:08.280 --> 10:12.600
+And we can do whatever we want with it by changing the brick color, changing the size
+
+10:12.600 --> 10:14.880
+if we select the scale tool just like this.
+
+10:14.880 --> 10:19.040
+And you know, things like that, you can even navigate through more settings over here.
+
+10:19.040 --> 10:23.120
+And that's another great way of familiarizing yourself with Roblox Studio.
+
+10:23.120 --> 10:26.640
+And once you are done with this learning objective, I want you to go down to the comments of
+
+10:26.640 --> 10:31.360
+this video and describe what you did for this learning objective so that other people
+
+10:31.360 --> 10:35.000
+who watch this tutorial can see what other people have been doing.
+
+10:35.000 --> 10:38.920
+And I think it would just be a really great way to show what everybody else is doing for
+
+10:38.920 --> 10:40.240
+these challenges.
+
+10:40.240 --> 10:44.200
+Now before we end off this video, there's one final thing I forgot to mention and that
+
+10:44.200 --> 10:48.080
+is the importance of saving your work so that you don't lose your progress.
+
+10:48.080 --> 10:53.200
+So what we can do is go on the top left here in file and we're going to click Save to
+
+10:53.200 --> 10:57.680
+file as and it's going to show up our file directory right here.
+
+10:57.680 --> 11:01.440
+And you can just pick wherever you want to save this Roblox Studio place in.
+
+11:01.440 --> 11:03.080
+So I'm just going to pick this place.
+
+11:03.080 --> 11:04.920
+You can even rename it to whatever you want to.
+
+11:04.920 --> 11:11.000
+I'm just going to say beginner scripting guide to the 2024 just like that.
+
+11:11.000 --> 11:12.720
+And I'm going to hit enter and there we go.
+
+11:12.720 --> 11:14.440
+Now our place is saved.
+
+11:14.440 --> 11:18.480
+And I encourage you to save your game very frequently so that you don't lose progress
+
+11:18.480 --> 11:20.360
+as you go through this tutorial guide.
+
+11:20.360 --> 11:23.760
+So that's pretty much going to be it for this episode and I will see you in the next
+
+11:23.760 --> 11:24.760
+episode.
+
+11:24.760 --> 11:25.440
+Take care.
+
